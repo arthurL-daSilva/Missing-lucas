@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.cima{
+    display: flex;
+    font-style: bold;
+    font-weight: 600;
+}
+
+.vc{
+    min-width: 200px;
+    max-height: 20px;
+    margin-right: 200px;
+}
+
+.imgL{
+    width: 400px;
+    height: 200px;
+}
+
+.contact{
+    margin-left: 200px;
+    min-width: 200px;
+    max-height: 20px;
+}
+
+main{
+    padding: 50px;
+}
+
+.lucas{
+    font-size: 50px;
+}
+
+footer{
+    font-size: 30px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+    
+}
